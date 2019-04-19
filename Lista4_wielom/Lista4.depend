@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555106660 source:e:\Программирование\универ\lista4\main.cpp
+	<iostream>
+	<initializer_list>
+	<E:\Программирование\универ\Lista4\class.hpp>
+
+1555107006 source:e:\Программирование\универ\lista4\functns.cpp
+	<iostream>
+	<E:\Программирование\универ\Lista4\class.hpp>
+

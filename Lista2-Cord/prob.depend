@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553194114 source:e:\Программирование\универ\prob\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<E:\Программирование\универ\prob\classes.h>
+
+1553194981 source:e:\Программирование\универ\prob\func-all.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<E:\Программирование\универ\prob\classes.h>
+
