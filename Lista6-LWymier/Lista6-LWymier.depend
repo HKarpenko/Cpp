@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1557259934 source:e:\Программирование\универ\lista6-lwymier\main.cpp
+	<iostream>
+	<cmath>
+	"Wyjatki.hpp"
+	"Obliczenia.hpp"
+
+1557255644 source:e:\Программирование\универ\lista6-lwymier\wyjatki.cpp
+	<iostream>
+	"Wyjatki.hpp"
+
+1557255644 e:\Программирование\универ\lista6-lwymier\wyjatki.hpp
+
+1557257339 e:\Программирование\универ\lista6-lwymier\obliczenia.hpp
+	"Wyjatki.hpp"
+
+1557261025 source:e:\Программирование\универ\lista6-lwymier\obliczenia.cpp
+	<iostream>
+	<cmath>
+	"Obliczenia.hpp"
+

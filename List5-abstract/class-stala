@@ -1,0 +1,38 @@
+#include <iostream>
+
+using namespace std;
+
+Pi::Pi(){}
+
+const int Pi::prio() override{return 0;}
+
+double Pi::oblicz() override{
+        return M_PI;
+}
+
+std::string Pi::opis() override{
+        return "pi";
+}
+
+E::E(){}
+
+const int E::prio() override{return 0;}
+
+double E::oblicz() override{
+        return M_E;
+}
+
+std::string E::opis() override{
+        return "e";
+}
+
+Fi::Fi(){}
+
+const int Fi::prio() override{return 0;}
+
+double Fi::oblicz() override{
+    return (1 + sqrt(5)) / 2;
+}
+std::string Fi::opis() override{
+    return "fi";
+}

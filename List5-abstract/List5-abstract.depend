@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1556740511 source:e:\Программирование\универ\list5-abstract\main.cpp
+	<iostream>
+	<math.h>
+	<map>
+	"liczba.hpp"
+	"wyrazy.hpp"
+	"stala.hpp"
+	"zmien.hpp"
+	"argument.hpp"
+
+1556735966 source:e:\Программирование\универ\list5-abstract\class-liczb.cpp
+	<iostream>
+	"wyrazy.hpp"
+	"liczba.hpp"
+
+1556734604 e:\Программирование\универ\list5-abstract\wyrazy.hpp
+
+1556735966 e:\Программирование\универ\list5-abstract\liczba.hpp
+	"wyrazy.hpp"
+
+1556735966 source:e:\Программирование\универ\list5-abstract\class-stala.cpp
+	<iostream>
+	<math.h>
+	"wyrazy.hpp"
+	"stala.hpp"
+
+1556734604 e:\Программирование\универ\list5-abstract\stala.hpp
+
+1556738535 source:e:\Программирование\универ\list5-abstract\class-zmien.cpp
+	<iostream>
+	<map>
+	"wyrazy.hpp"
+	"zmien.hpp"
+
+1556738513 e:\Программирование\универ\list5-abstract\zmien.hpp
+
+1556737614 source:e:\Программирование\универ\list5-abstract\new1.cpp
+	<iostream>
+	<map>
+	"wyrazy.hpp"
+	"zmien.hpp"
+
+1556740538 e:\Программирование\универ\list5-abstract\argument.hpp
+	"wyrazy.hpp"
+
+1556740531 source:e:\Программирование\универ\list5-abstract\class-argument.cpp
+	<iostream>
+	<math.h>
+	"argument.hpp"
+	"wyrazy.hpp"
+
