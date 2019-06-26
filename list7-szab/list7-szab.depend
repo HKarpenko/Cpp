@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1557954092 source:e:\Программирование\универ\list7-szab\main.cpp
+	<iostream>
+
+1559721858 source:e:\Программирование\универ\c++\list7-szab\main.cpp
+	<iostream>
+	<cstring>
+	"treit.hpp"
+	"bst.hpp"
+
+1559721746 e:\Программирование\универ\c++\list7-szab\treit.hpp
+
+1559721746 source:e:\Программирование\универ\c++\list7-szab\treit.cpp
+	<iostream>
+	<cstring>
+	"treit.hpp"
+
+1558804118 source:e:\Программирование\универ\c++\list7-szab\bst.cpp
+
+1559723099 e:\Программирование\универ\c++\list7-szab\bst.hpp
+	"treit.hpp"
+
